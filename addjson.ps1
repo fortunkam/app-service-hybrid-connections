@@ -1,0 +1,1 @@
+Set-Content "C:\inetpub\wwwroot\api.json" -Value "{ `"machineName`":`"$env:computername`" }"
