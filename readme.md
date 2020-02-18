@@ -1,4 +1,4 @@
-# Hybrid Connections
+# Azure App Service - Hybrid Connections
 
 Hybrid connections are the often forgotten networking option for the Azure App Service, they are surprisingly powerful and provide a real credible option where traditional VPNs are not available.  The [setup.sh](setup.sh) script will create a load balanced mocked test environment, consisting of 
 
